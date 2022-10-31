@@ -4,6 +4,7 @@
 
 ## 通过NPM命令启动服务
 `pm2 start npm --name 你的进程名称 -- npm的命令 `
+//pm2 start npm --name app -- start
 ## 查看后台服务列表
 `pm2 list `
 ## 删除后台服务
